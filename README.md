@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaDr&layout=compact&theme=dracula)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elia Driesner)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliaDr)

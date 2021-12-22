@@ -5,5 +5,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaDr&layout=compact&theme=dracula)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliaDr&repo=stranded)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eliaDr&repo=stranded&theme=dracula)
 

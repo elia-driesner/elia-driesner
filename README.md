@@ -12,5 +12,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaDr&layout=compact&theme=dracula)
 
+#### My smaller Projects:
+  - Meteor Dodging Game
+  - Snake
+  - Crossy Turtle 1 and 2
 
 

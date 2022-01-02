@@ -16,5 +16,6 @@
   - Meteor Dodging Game
   - Snake
   - Crossy Turtle 1 and 2
+  - Higher Lower Game   Follower edition
 
 

@@ -1,8 +1,6 @@
 
 ### Welcome to my Github page
 
-##### I am currently working on a cooking Website for my mom
-
 <br />
 <br />
 

@@ -21,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliadr&show_icons=true&locale=en&theme=dracula" alt="eliadr" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaDr&layout=compact&theme=dracula)
 
 
 

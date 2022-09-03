@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [A cooking app for my mother](https://github.com/eliaDr/CookingApp)
+- 🔭 I’m currently working on [an App for my school](https://github.com/eliaDr/Schulbuch-Manager-App)
 
 - 🌱 I’m currently learning **More about microcontrollers**
 

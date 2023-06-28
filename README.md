@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [an App for my school](https://github.com/eliaDr/Schulbuch-Manager-App)
-
-- 🌱 I’m currently learning **More about microcontrollers**
+- 🔭 I’m currently working on my own App
 
 - 📫 How to reach me **elia.driesner@gmail.com**
 

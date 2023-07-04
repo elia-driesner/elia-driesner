@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elia Driesner</h1>
 <h3 align="center">A student and flutter / python developer</h3>
 
-
-
-- 🔭 I’m currently working on my own App
-
 - 📫 How to reach me **elia.driesner@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
